@@ -1,0 +1,6 @@
+[package]
+name = "ch10-11"
+version = "0.1.0"
+authors = ["Caleb McCarthy <caleb.a.mccarthy@gmail.com>"]
+
+[dependencies]
